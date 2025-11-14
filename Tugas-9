@@ -1,1 +1,12 @@
+Project Charter & Scope
+Project Charter ini kayak “surat resmi” kalau proyek Smart City Panel Surya ini beneran jalan. Isinya:
+Judul Proyek: Implementasi Panel Surya pada Sistem Smart City
+Tujuan: Mengurangi ketergantungan listrik konvensional dan meningkatkan efisiensi energi kota.
+Manfaat: energi lebih bersih, biaya operasional turun, mendukung visi kota pintar.
+Stakeholder Utama: Pemerintah kota, Tim Smart City, Vendor panel surya, Warga.
+Deliverables: panel surya terpasang, sistem monitoring berjalan, dokumentasi lengkap, pelatihan operator.
 
+Scope Proyek
+berisi batasan, biar jelas apa yang dikerjain dan apa yang nggak:
+In scope: survei lokasi, pemasangan panel, integrasi dashboard, testing, pelatihan.
+Out of scope: pembangunan gedung baru, upgrade jaringan listrik besar-besaran, pengembangan aplikasi di luar kebutuhan monitoring.
